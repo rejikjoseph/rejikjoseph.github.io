@@ -252,3 +252,7 @@ html[data-theme="dark"] { --rj-bar: #2a0c2e; --rj-bar-fg: #f1e9f2; --rj-bar-acce
 .clean-page p.page-intro { font-size: 1.02rem; font-style: italic; font-weight: 300; color: var(--rj-muted); margin: 0 0 0.8em; }
 
 .hero-role .sep { color: var(--rj-accent); font-weight: 400; margin: 0 0.55em; }
+
+/* PDF download pill next to opinion pieces */
+.pdf-link { display: inline-block; margin-left: 0.4em; padding: 0 0.55em; font-size: 0.72rem; font-weight: 500; letter-spacing: 0.06em; line-height: 1.7; color: var(--rj-accent) !important; border: 1px solid var(--rj-accent); border-radius: 999px; text-decoration: none !important; vertical-align: 1px; }
+.pdf-link:hover { background: var(--rj-accent); color: #fff !important; }

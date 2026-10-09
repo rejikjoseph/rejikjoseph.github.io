@@ -57,51 +57,45 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
 
 [**Biopharma Strategy Needs Regulatory Focus**](https://www.financialexpress.com/opinion/biopharma-strategy-needs-regulatory-focus/4148712/), *Financial Express*, 20 February 2026.
 
-**Make in India to Transform India's Pharmaceutical Sector**, *Optima*, Issue 13, The Annual Outlook, Department of Economics, Daulat Ram College, University of Delhi, pp. 32–35, 2026.
-
+**Make in India to Transform India's Pharmaceutical Sector**, *Optima*, Issue 13, The Annual Outlook, Department of Economics, Daulat Ram College, University of Delhi, pp. 32–35, 2026. [PDF](/files/opinion/2026-optima-make-in-india-pharmaceutical-sector.pdf){: .pdf-link}
 
 ## 2025 {#y2025}
 
-**A New Leader in Pharma**, *Times of India*, 29 June 2025.
+**A New Leader in Pharma**, *Times of India*, 29 June 2025. [PDF](/files/opinion/2025-06-29-times-of-india-a-new-leader-in-pharma.pdf){: .pdf-link}
 
 [**Trump's Reciprocal Tariff Policy: Implications for Indian Pharma Industry**](https://indiasworld.in/trumps-reciprocal-tariff-policy-implications-for-indian-pharma-industry/), *India's World: International Affairs-Indian Interests*, 26 March 2025.
-
 
 ## 2024 {#y2024}
 
 [**Pharma PLI Needs to Be Revisited**](https://www.thehindubusinessline.com/opinion/pharma-pli-needs-to-be-revisited/article68121968.ece), *Business Line*, 30 April 2024.
 
-
 ## 2023 {#y2023}
 
-**Can Deep-Tech Start-Ups Propel Drug Discovery?**, *BioSpectrum*, November 2023.
+**Can Deep-Tech Start-Ups Propel Drug Discovery?**, *BioSpectrum*, November 2023. [PDF](/files/opinion/2023-11-biospectrum-can-deep-tech-startups-propel-drug-discovery.pdf){: .pdf-link}
 
 [**The Way Ahead for Innovation in India**](https://www.thehindubusinessline.com/opinion/the-way-ahead-for-innovation-in-india/article67473908.ece), *Business Line*, 30 October 2023.
 
 [**India's R&D Estimates Are an Incomplete Picture**](https://www.thehindu.com/opinion/op-ed/indias-rd-estimates-are-an-incomplete-picture/article66545931.ece), *The Hindu*, 24 February 2023.
 
-
 ## 2022 {#y2022}
 
 [**The Curious Case of India's Rising Trade Deficit with China in Pharmaceuticals**](https://issuu.com/indianexpressgroup/docs/ep_october_2022_mag_v1/33?e=33&o=1), *Express Pharma*, 17(11), October 2022.
 
-[**Connecting the Dots to Boost the Patent Ecosystem**](https://www.thehindu.com/opinion/op-ed/connecting-the-dots-to-boost-the-patent-ecosystem/article65887012.ece), *The Hindu*, 14 September 2022.
+[**Connecting the Dots to Boost the Patent Ecosystem**](https://www.thehindu.com/opinion/op-ed/connecting-the-dots-to-boost-the-patent-ecosystem/article65887012.ece), *The Hindu*, 14 September 2022. [PDF](/files/opinion/2022-09-14-the-hindu-connecting-the-dots-patent-ecosystem.pdf){: .pdf-link}
 
-[**Petty Patents Can Boost R&D**](https://www.thehindu.com/opinion/op-ed/petty-patents-can-boost-rd/article65543004.ece), *The Hindu*, 20 June 2022.
+[**Petty Patents Can Boost R&D**](https://www.thehindu.com/opinion/op-ed/petty-patents-can-boost-rd/article65543004.ece), *The Hindu*, 20 June 2022. (Co-author) [PDF](/files/opinion/2022-06-20-the-hindu-petty-patents-can-boost-rd.pdf){: .pdf-link}
 
 [**Innovation in India's Pharma Sector Matters to the World. Here's Why**](https://www.moneycontrol.com/news/opinion/innovation-in-indias-pharma-sector-matters-to-the-world-heres-why-8233491.html), *Moneycontrol.com*, 15 March 2022.
 
 **India to Be Self-Sufficient in Pharmaceutical Ingredients: Listen to Dr. Reji K Joseph in ISID**, *The Chemical Daily, Japan*, 8 March 2022. (Interview)
 
-[**A Self-Reliant Pharma Industry**](https://www.thehindu.com/opinion/op-ed/a-self-reliant-pharma-industry/article38393539.ece), *The Hindu*, 8 February 2022. (Co-author)
-
+[**A Self-Reliant Pharma Industry**](https://www.thehindu.com/opinion/op-ed/a-self-reliant-pharma-industry/article38393539.ece), *The Hindu*, 8 February 2022. (Co-author) [PDF](/files/opinion/2022-02-08-the-hindu-a-self-reliant-pharma-industry.pdf){: .pdf-link}
 
 ## 2021 {#y2021}
 
-[**Only a Global Effort Can Tame Covid-19**](https://www.thehindu.com/opinion/op-ed/only-a-global-effort-can-tame-covid-19/article62106025.ece), *The Hindu*, 31 May 2021. (Co-author)
+[**Only a Global Effort Can Tame Covid-19**](https://www.thehindu.com/opinion/op-ed/only-a-global-effort-can-tame-covid-19/article62106025.ece), *The Hindu*, 31 May 2021. (Co-author) [PDF](/files/opinion/2021-05-31-the-hindu-only-a-global-effort-can-tame-covid-19.pdf){: .pdf-link}
 
-[**No to Vaccine Nationalism, Yes to Global Cooperation**](https://www.thehindu.com/opinion/lead/no-to-vaccine-nationalism-yes-to-global-cooperation/article62106768.ece), *The Hindu*, 4 February 2021. (Co-author)
-
+[**No to Vaccine Nationalism, Yes to Global Cooperation**](https://www.thehindu.com/opinion/lead/no-to-vaccine-nationalism-yes-to-global-cooperation/article62106768.ece), *The Hindu*, 4 February 2021. (Co-author) [PDF](/files/opinion/2021-02-04-the-hindu-no-to-vaccine-nationalism.pdf){: .pdf-link}
 
 ## 2020 {#y2020}
 
@@ -111,20 +105,19 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
 
 [**Indian Pharma is Being Squeezed – and It's Bad News for Drug Access in Developing Countries**](https://theconversation.com/indian-pharma-is-being-squeezed-and-its-bad-news-for-drug-access-in-developing-countries-149122), *The Conversation*, 30 October 2020. (Co-author)
 
+[**Drug Pricing is Certainly Not the Issue in Growing Dependence on China**](https://www.financialexpress.com/opinion/drug-pricing-is-certainly-not-the-issue-in-growing-dependence-on-china/2046086/), *Financial Express*, 6 August 2020.
+
 [**Crouching Dragon: Chinese Influence Set to Rise in the Post-Covid Global Economy**](https://www.policycircle.org/economy/crouching-dragon-chinese-influence-set-to-rise-in-post-covid-global-economy/), *Policy Circle*, 10 June 2020.
 
 **Big Opportunity for India**, *Down To Earth*, 1–15 May 2020.
 
-[**US Tries to Thwart TRIPS Flexibilities in the Midst of a Pandemic**](https://www.livemint.com/opinion/online-views/us-tries-to-thwart-trips-flexibilities-in-the-midst-of-a-pandemic-11588320583933.html), *LiveMint*, 1 May 2020.
+[**US Tries to Thwart TRIPS Flexibilities in the Midst of a Pandemic**](https://www.livemint.com/opinion/online-views/us-tries-to-thwart-trips-flexibilities-in-the-midst-of-a-pandemic-11588320583933.html), *LiveMint*, 1 May 2020. [PDF](/files/opinion/2020-05-01-livemint-us-tries-to-thwart-trips-flexibilities.pdf){: .pdf-link}
 
 [**Covid-19 Exposes India's Dependence on China for Active Pharmaceutical Ingredients**](https://www.downtoearth.org.in/economy/covid-19-exposes-india-s-dependence-on-china-for-active-pharma-ingredients-70272), *Down To Earth*, 7 April 2020. (Quoted)
-
-**Drug Pricing is Certainly Not the Issue in Growing Dependence on China**, *Financial Express*, 6 April 2020.
 
 [**Reducing India's Import Dependence on APIs: A Possible Way Out**](https://www.expresspharma.in/guest-blogs/reducing-indias-import-dependence-on-apis-a-possible-way-out/), *Express Pharma*, 31 March 2020.
 
 **Challenges in Promoting Bilateral Trade in Pharmaceuticals between India and Pakistan**, *Regional Prosperity in South Asia, Policy Brief, Chao Track*, 2020.
-
 
 ## 2019 {#y2019}
 
@@ -140,26 +133,22 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
 
 [**Is Technology Driving the US-China Trade War?**](http://globalsouthcolloquy.com/is-technology-driving-the-us-china-trade-war/), *Global South Colloquy*, 19 June 2019.
 
-[**Special 301 Report 2019: A Deliberate Attempt to Weaken India's Patents Act and to Tarnish Indian Generic Pharmaceutical Industry**](https://www.expresspharma.in/guest-blogs/special-301-report-2019-a-deliberate-attempt-to-weaken-indias-patents-act-to-tarnish-indian-generic-pharmaceutical-industry/409348/), *Express Pharma*, 1 May 2019.
-
+[**Special 301 Report 2019: A Deliberate Attempt to Weaken India's Patents Act and to Tarnish Indian Generic Pharmaceutical Industry**](https://www.expresspharma.in/special-301-report-2019-a-deliberate-attempt-to-weaken-indias-patents-act-to-tarnish-indian-generic-pharmaceutical-industry/), *Express Pharma*, 1 May 2019.
 
 ## 2018 {#y2018}
 
-[**Investment Facilitation: New Dynamism at WTO on Investment**](http://ccsi.columbia.edu/files/2016/10/No-235-Joseph-FINAL-1.pdf), *Columbia FDI Perspectives No. 235, Columbia Center on Sustainable Investment*, 24 September 2018.
-
+[**Investment Facilitation: New Dynamism at WTO on Investment**](https://ccsi.columbia.edu/sites/default/files/content/docs/publications/No-235-Joseph-FINAL-1.pdf), *Columbia FDI Perspectives No. 235, Columbia Center on Sustainable Investment*, 24 September 2018.
 
 ## 2017 {#y2017}
 
 [**Draft Pharmaceutical Policy 2017: Needs More Clarity and Clear Road Maps**](https://health.economictimes.indiatimes.com/news/policy/draft-pharmaceutical-policy-2017-needs-more-clarity-and-clear-road-maps/60298206), *ET Healthworld*, 31 August 2017.
 
-
 ## 2016 {#y2016}
 
 [**Compulsory Licenses Needed in India to Ensure Affordable Medicines**](https://thewire.in/health/compulsory-licenses-needed-in-india-to-ensure-affordable-medicines), *The Wire*, 7 May 2016.
 
-
 ## 2008 {#y2008}
 
-[**The Ranbaxy Model and Consolidation in Pharma Sector**](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/the-ranbaxy-model-and-consolidation-in-pharma-sector/articleshow/3158463.cms?from=mdr), *Economic Times*, 24 June 2008.
+[**The Ranbaxy Model and Consolidation in Pharma Sector**](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/the-ranbaxy-model-and-consolidation-in-pharma-sector/articleshow/3158463.cms?from=mdr), *Economic Times*, 24 June 2008. [PDF](/files/opinion/2008-06-24-economic-times-the-ranbaxy-model.pdf){: .pdf-link}
 
 </div>
