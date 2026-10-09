@@ -53,7 +53,7 @@
   --rj-footer-bg: #1f1f24;
   --rj-footer-fg: #d9d6dc;
   --rj-font: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  --rj-width: 930px;
+  --rj-width: 1200px;
 }
 html[data-theme="dark"] {
   --rj-accent: #e07ad9;
@@ -111,7 +111,7 @@ a:hover { text-decoration: underline; }
 .hero-photo img { width: 200px; max-width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px; box-shadow: var(--rj-shadow); }
 
 /* About: bio left, large portrait right with details underneath (al-folio style) */
-.about-grid { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 2.5em; align-items: start; margin-top: 1.5em; }
+.about-grid { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 3em; align-items: start; margin-top: 1.5em; }
 .about-text { grid-column: 1; grid-row: 1; min-width: 0; }
 .about-text p:first-child { margin-top: 0; }
 .about-card { grid-column: 2; grid-row: 1; }
