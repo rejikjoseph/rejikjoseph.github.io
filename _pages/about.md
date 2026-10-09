@@ -36,7 +36,7 @@ redirect_from:
 
 <h2 class="section-label">Recent books</h2>
 
-<div class="book-grid book-grid--three">
+<div class="book-grid book-grid--four">
   <div class="book">
     <a href="https://www.kiet.re.kr/en/pub/occapaperView?occapaper_no=110"><img src="/images/books/korea-india-industrial-collaboration-driving-share.jpg" alt="Cover of Korea-India Industrial Collaboration: Driving Shared Growth and Future Prosperity" loading="lazy"></a>
     <p class="book-title"><a href="https://www.kiet.re.kr/en/pub/occapaperView?occapaper_no=110">Korea-India Industrial Collaboration: Driving Shared Growth and Future Prosperity</a></p>
@@ -51,6 +51,11 @@ redirect_from:
     <img src="/images/books/make-in-india-an-assessment-of-the-impact-of-the-p.jpg" alt="Cover of Make in India: An Assessment of the Impact of the Programme on Six Manufacturing Sectors" loading="lazy">
     <p class="book-title">Make in India: An Assessment of the Impact of the Programme on Six Manufacturing Sectors</p>
     <p class="book-meta">Indian Council of Social Science Research (ICSSR), 2025.</p>
+  </div>
+  <div class="book">
+    <a href="https://pharma-dept.gov.in/sites/default/files/Updated%20Strategy%20for%20Leveraging%20ASEAN%20FTA%20and%20trade%20potential%20with%20the%20Middle%20East%20Countries%20for%20Pharma%20Sector%20in%20India%20Final%20-%20ISID.pdf"><img src="/images/books/strategy-for-leveraging-asean-fta-and-trade-potent.jpg" alt="Cover of Strategy for Leveraging ASEAN FTA and Trade Potential with the Middle East Countries for Pharma Sector in India" loading="lazy"></a>
+    <p class="book-title"><a href="https://pharma-dept.gov.in/sites/default/files/Updated%20Strategy%20for%20Leveraging%20ASEAN%20FTA%20and%20trade%20potential%20with%20the%20Middle%20East%20Countries%20for%20Pharma%20Sector%20in%20India%20Final%20-%20ISID.pdf">Strategy for Leveraging ASEAN FTA and Trade Potential with the Middle East Countries for Pharma Sector in India</a></p>
+    <p class="book-meta">Department of Pharmaceuticals, Government of India, 2023.</p>
   </div>
 </div>
 <p class="more-link"><a href="/publications/">All publications →</a></p>
