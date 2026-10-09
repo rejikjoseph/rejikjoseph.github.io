@@ -184,7 +184,13 @@ html[data-theme="dark"] { --rj-bar: #2a0c2e; --rj-bar-fg: #f1e9f2; --rj-bar-acce
   text-align: right; font-size: 2rem !important; font-weight: 300 !important; color: var(--rj-faint);
   border-bottom: 1px solid var(--rj-rule) !important; padding-bottom: 0.1em; margin: 1.6em 0 0.9em !important;
 }
-.entry-list p { padding-left: 1.4em; text-indent: -1.4em; margin: 0 0 0.9em; font-size: 0.95rem; line-height: 1.6; }
+.entry-list p {
+  margin: 0 0 0.85em; padding: 0.95em 1.2em; font-size: 0.95rem; line-height: 1.6;
+  background: var(--rj-card); border: 1px solid var(--rj-rule); border-left: 4px solid var(--rj-accent);
+  border-radius: 6px; box-shadow: 0 1px 4px rgba(30, 20, 40, 0.06);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.entry-list p:hover { box-shadow: var(--rj-shadow-hover); transform: translateY(-1px); }
 .entry-list p strong { font-weight: 500; }
 
 /* Teaching course card */
