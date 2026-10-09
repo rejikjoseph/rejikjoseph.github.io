@@ -221,3 +221,29 @@ html[data-theme="dark"] { --rj-bar: #2a0c2e; --rj-bar-fg: #f1e9f2; --rj-bar-acce
 @media (prefers-reduced-motion: reduce) {
   .card, .book img { transition: none; }
 }
+
+/* ---------- Compact spacing ---------- */
+#main.clean-main { padding-top: 1.6em; padding-bottom: 3em; }
+.clean-page .page__title { margin: 0.2em 0 0.35em; }
+.clean-page > p:first-of-type { margin-bottom: 0.6em; }
+.clean-page h2 { margin-top: 1.2em; margin-bottom: 0.5em; }
+.section-label { margin: 1.8em 0 0.9em !important; }
+.entry-list h2, .entry-list h3 { font-size: 1.6rem !important; margin: 1.1em 0 0.6em !important; padding-bottom: 0; line-height: 1.2; }
+.entry-list > h2:first-child, .entry-list > h3:first-child { margin-top: 0.2em !important; }
+.entry-list p { margin-bottom: 0.6em; padding: 0.75em 1.1em; }
+.book-grid { margin: 0.6em 0 0.6em; }
+.card-grid + .more-link, .book-grid + .more-link, .news + .more-link { margin-top: 0.5em; }
+.section-label:has(+ .entry-list) { border-bottom: 0 !important; margin-bottom: 0 !important; }
+.card-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+@media (max-width: 700px) { .card-grid { grid-template-columns: 1fr; } }
+/* Publications page: compact book list (small cover beside details), two columns */
+.book-grid:not(.book-grid--four) { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1em 1.4em; }
+.book-grid:not(.book-grid--four) .book {
+  display: grid; grid-template-columns: 96px minmax(0, 1fr); grid-template-rows: auto 1fr; gap: 0 1em; align-items: start;
+  background: var(--rj-card); border: 1px solid var(--rj-rule); border-radius: 6px; padding: 0.8em;
+}
+.book-grid:not(.book-grid--four) .book > a:first-child, .book-grid:not(.book-grid--four) .book > img { grid-row: 1 / span 2; }
+.book-grid:not(.book-grid--four) .book img { width: 96px; }
+.book-grid:not(.book-grid--four) .book-title { margin-top: 0.1em; font-size: 0.95rem; font-weight: 500; }
+.book-grid:not(.book-grid--four) .book-meta { margin-top: 0.4em; font-size: 0.82rem; }
+@media (max-width: 700px) { .book-grid:not(.book-grid--four) { grid-template-columns: 1fr; } }
