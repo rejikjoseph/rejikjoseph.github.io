@@ -49,13 +49,13 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
 
 ## 2026 {#y2026}
 
-[**A Potential Blessing in Disguise for Pharma**](https://www.financialexpress.com/opinion/a-potential-blessing-in-disguise-for-pharma/4306903/), *Financial Express*, 31 July 2026.
+[**A Potential Blessing in Disguise for Pharma**](https://www.financialexpress.com/opinion/a-potential-blessing-in-disguise-for-pharma/4306903/), *Financial Express*, 31 July 2026. [PDF](/files/opinion/2026-07-31-financial-express-a-potential-blessing-in-disguise.pdf){: .pdf-link}
 
-[**Will Reforming BITs Revive FDI Inflows?**](https://www.financialexpress.com/policy/economy/explainernbspwill-reforming-bits-revive-fdi-inflows/4272997/), *Financial Express*, 22 June 2026.
+[**Will Reforming BITs Revive FDI Inflows?**](https://www.financialexpress.com/policy/economy/explainernbspwill-reforming-bits-revive-fdi-inflows/4272997/), *Financial Express*, 22 June 2026. [PDF](/files/opinion/2026-06-22-financial-express-will-reforming-bits-revive-fdi.pdf){: .pdf-link}
 
-[**India-Korea Partnership Needs Deeper Engagement**](https://www.thehindubusinessline.com/opinion/india-korea-partnership-needs-deeper-engagement/article70984353.ece), *Business Line*, 16 May 2026.
+[**India-Korea Partnership Needs Deeper Engagement**](https://www.thehindubusinessline.com/opinion/india-korea-partnership-needs-deeper-engagement/article70984353.ece), *Business Line*, 16 May 2026. [PDF](/files/opinion/2026-05-16-business-line-india-korea-partnership.pdf){: .pdf-link}
 
-[**Biopharma Strategy Needs Regulatory Focus**](https://www.financialexpress.com/opinion/biopharma-strategy-needs-regulatory-focus/4148712/), *Financial Express*, 20 February 2026.
+[**Biopharma Strategy Needs Regulatory Focus**](https://www.financialexpress.com/opinion/biopharma-strategy-needs-regulatory-focus/4148712/), *Financial Express*, 20 February 2026. [PDF](/files/opinion/2026-02-20-financial-express-biopharma-strategy-regulatory-focus.pdf){: .pdf-link}
 
 **Make in India to Transform India's Pharmaceutical Sector**, *Optima*, Issue 13, The Annual Outlook, Department of Economics, Daulat Ram College, University of Delhi, pp. 32–35, 2026. [PDF](/files/opinion/2026-optima-make-in-india-pharmaceutical-sector.pdf){: .pdf-link}
 
@@ -63,19 +63,19 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
 
 **A New Leader in Pharma**, *Times of India*, 29 June 2025. [PDF](/files/opinion/2025-06-29-times-of-india-a-new-leader-in-pharma.pdf){: .pdf-link}
 
-[**Trump's Reciprocal Tariff Policy: Implications for Indian Pharma Industry**](https://indiasworld.in/trumps-reciprocal-tariff-policy-implications-for-indian-pharma-industry/), *India's World: International Affairs-Indian Interests*, 26 March 2025.
+[**Trump's Reciprocal Tariff Policy: Implications for Indian Pharma Industry**](https://indiasworld.in/trumps-reciprocal-tariff-policy-implications-for-indian-pharma-industry/), *India's World: International Affairs-Indian Interests*, 26 March 2025. [PDF](/files/opinion/2025-03-26-indias-world-trumps-reciprocal-tariff-policy.pdf){: .pdf-link}
 
 ## 2024 {#y2024}
 
-[**Pharma PLI Needs to Be Revisited**](https://www.thehindubusinessline.com/opinion/pharma-pli-needs-to-be-revisited/article68121968.ece), *Business Line*, 30 April 2024.
+[**Pharma PLI Needs to Be Revisited**](https://www.thehindubusinessline.com/opinion/pharma-pli-needs-to-be-revisited/article68121968.ece), *Business Line*, 30 April 2024. [PDF](/files/opinion/2024-04-30-business-line-pharma-pli-needs-to-be-revisited.pdf){: .pdf-link}
 
 ## 2023 {#y2023}
 
 **Can Deep-Tech Start-Ups Propel Drug Discovery?**, *BioSpectrum*, November 2023. [PDF](/files/opinion/2023-11-biospectrum-can-deep-tech-startups-propel-drug-discovery.pdf){: .pdf-link}
 
-[**The Way Ahead for Innovation in India**](https://www.thehindubusinessline.com/opinion/the-way-ahead-for-innovation-in-india/article67473908.ece), *Business Line*, 30 October 2023.
+[**The Way Ahead for Innovation in India**](https://www.thehindubusinessline.com/opinion/the-way-ahead-for-innovation-in-india/article67473908.ece), *Business Line*, 30 October 2023. [PDF](/files/opinion/2023-10-30-business-line-the-way-ahead-for-innovation.pdf){: .pdf-link}
 
-[**India's R&D Estimates Are an Incomplete Picture**](https://www.thehindu.com/opinion/op-ed/indias-rd-estimates-are-an-incomplete-picture/article66545931.ece), *The Hindu*, 24 February 2023.
+[**India's R&D Estimates Are an Incomplete Picture**](https://www.thehindu.com/opinion/op-ed/indias-rd-estimates-are-an-incomplete-picture/article66545931.ece), *The Hindu*, 24 February 2023. [PDF](/files/opinion/2023-02-24-the-hindu-indias-rd-estimates-incomplete-picture.pdf){: .pdf-link}
 
 ## 2022 {#y2022}
 
@@ -105,7 +105,7 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
 
 [**Indian Pharma is Being Squeezed – and It's Bad News for Drug Access in Developing Countries**](https://theconversation.com/indian-pharma-is-being-squeezed-and-its-bad-news-for-drug-access-in-developing-countries-149122), *The Conversation*, 30 October 2020. (Co-author)
 
-[**Drug Pricing is Certainly Not the Issue in Growing Dependence on China**](https://www.financialexpress.com/opinion/drug-pricing-is-certainly-not-the-issue-in-growing-dependence-on-china/2046086/), *Financial Express*, 6 August 2020.
+[**Drug Pricing is Certainly Not the Issue in Growing Dependence on China**](https://www.financialexpress.com/opinion/drug-pricing-is-certainly-not-the-issue-in-growing-dependence-on-china/2046086/), *Financial Express*, 6 August 2020. [PDF](/files/opinion/2020-08-06-financial-express-pricing-is-certainly-not-the-issue.pdf){: .pdf-link}
 
 [**Crouching Dragon: Chinese Influence Set to Rise in the Post-Covid Global Economy**](https://www.policycircle.org/economy/crouching-dragon-chinese-influence-set-to-rise-in-post-covid-global-economy/), *Policy Circle*, 10 June 2020.
 
@@ -121,7 +121,7 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
 
 ## 2019 {#y2019}
 
-[**Revamping the Indian Start-up Ecosystem**](https://www.financialexpress.com/opinion/revamping-the-indian-start-up-ecosystem/1791408/), *Financial Express*, 12 December 2019.
+[**Revamping the Indian Start-up Ecosystem**](https://www.financialexpress.com/opinion/revamping-the-indian-start-up-ecosystem/1791408/), *Financial Express*, 12 December 2019. [PDF](/files/opinion/2019-12-12-financial-express-revamping-indian-startup-ecosystem.pdf){: .pdf-link}
 
 [**India's Challenges in the Global Landscape of Start-Up Ecosystem**](https://globalsouthcolloquy.com/indias-challenges-in-the-global-landscape-of-start-up-ecosystem/), *Global South Colloquy*, 2 December 2019.
 
