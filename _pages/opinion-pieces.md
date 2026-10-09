@@ -6,6 +6,7 @@ author_profile: false
 ---
 
 Op-eds and articles in newspapers, magazines and online platforms, newest first. Titles link to the original article where available.
+{: .page-intro}
 
 <h2 class="section-label">Latest</h2>
 

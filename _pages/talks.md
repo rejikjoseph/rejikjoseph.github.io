@@ -6,6 +6,7 @@ author_profile: false
 ---
 
 Invited lectures, conference presentations, and roles as panellist, discussant and session chair, newest first.
+{: .page-intro}
 
 <!-- Featured talks with photos will go here once photos are available. -->
 
