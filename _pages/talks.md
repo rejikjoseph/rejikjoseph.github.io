@@ -9,8 +9,6 @@ Invited lectures, conference presentations, and roles as panellist, discussant a
 
 <!-- Featured talks with photos will go here once photos are available. -->
 
-<p class="year-jump"><a href="#y2026">2026</a> · <a href="#y2025">2025</a> · <a href="#y2024">2024</a> · <a href="#y2023">2023</a> · <a href="#y2022">2022</a> · <a href="#y2021">2021</a> · <a href="#y2020">2020</a> · <a href="#y2019">2019</a> · <a href="#y2018">2018</a> · <a href="#y2017">2017</a> · <a href="#y2016">2016</a> · <a href="#y2015">2015</a> · <a href="#y2014">2014</a> · <a href="#y2013">2013</a> · <a href="#y2012">2012</a> · <a href="#y2010">2010</a> · <a href="#y2009">2009</a></p>
-
 <div class="entry-list" markdown="1">
 
 ## 2026 {#y2026}

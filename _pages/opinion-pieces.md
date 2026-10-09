@@ -44,8 +44,6 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
 
 <h2 class="section-label">All opinion pieces</h2>
 
-<p class="year-jump"><a href="#y2026">2026</a> · <a href="#y2025">2025</a> · <a href="#y2024">2024</a> · <a href="#y2023">2023</a> · <a href="#y2022">2022</a> · <a href="#y2021">2021</a> · <a href="#y2020">2020</a> · <a href="#y2019">2019</a> · <a href="#y2018">2018</a> · <a href="#y2017">2017</a> · <a href="#y2016">2016</a> · <a href="#y2008">2008</a></p>
-
 <div class="entry-list" markdown="1">
 
 ## 2026 {#y2026}
