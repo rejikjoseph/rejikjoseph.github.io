@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <h1 class="hero-name">Reji K. Joseph</h1>
-<p class="hero-role">Policy Researcher · Author · Lecturer</p>
+<p class="hero-role">Policy Researcher<span class="sep">|</span>Author<span class="sep">|</span>Lecturer</p>
 
 <div class="about-grid">
   <aside class="about-card">

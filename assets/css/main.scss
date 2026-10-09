@@ -250,3 +250,5 @@ html[data-theme="dark"] { --rj-bar: #2a0c2e; --rj-bar-fg: #f1e9f2; --rj-bar-acce
 
 /* Page intro line: lighter, italic, muted so it stands apart from list entries */
 .clean-page p.page-intro { font-size: 1.02rem; font-style: italic; font-weight: 300; color: var(--rj-muted); margin: 0 0 0.8em; }
+
+.hero-role .sep { color: var(--rj-accent); font-weight: 400; margin: 0 0.55em; }
