@@ -14,7 +14,7 @@ redirect_from:
 
 <div class="about-grid">
   <aside class="about-card">
-    <img class="about-photo" src="/images/profile.png" alt="Reji K. Joseph">
+    <img class="about-photo" src="/images/reji-joseph.jpg" alt="Reji K. Joseph">
     <div class="about-details">
       <p class="about-designation">Associate Professor</p>
       <p>Institute for Studies in Industrial Development (ISID)</p>
