@@ -111,12 +111,12 @@ a:hover { text-decoration: underline; }
 .hero-photo img { width: 200px; max-width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px; box-shadow: var(--rj-shadow); }
 
 /* About: bio left, large portrait right with details underneath (al-folio style) */
-.about-grid { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 3em; align-items: start; margin-top: 1.5em; }
+.about-grid { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 3em; align-items: start; margin-top: 1.5em; }
 .about-text { grid-column: 1; grid-row: 1; min-width: 0; }
 .about-text p:first-child { margin-top: 0; }
 .about-card { grid-column: 2; grid-row: 1; }
-.about-photo { display: block; width: 100%; max-width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 4px; box-shadow: var(--rj-shadow); background: var(--rj-rule); }
-.about-details { margin-top: 1em; font-size: 0.92rem; line-height: 1.55; }
+.about-photo { display: block; width: 100%; max-width: 100%; aspect-ratio: 1 / 1; object-fit: cover; object-position: 50% 15%; border-radius: 4px; box-shadow: var(--rj-shadow); background: var(--rj-rule); }
+.about-details { margin-top: 0.9em; font-size: 0.88rem; line-height: 1.5; }
 .about-details p { margin: 0; }
 .about-designation { font-weight: 500; }
 .about-email { margin-top: 0.5em !important; word-break: break-all; }
