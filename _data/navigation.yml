@@ -1,0 +1,16 @@
+# Top menu, in display order. Edit the titles or order here.
+main:
+  - title: "About"
+    url: /
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Opinion Pieces"
+    url: /opinion-pieces/

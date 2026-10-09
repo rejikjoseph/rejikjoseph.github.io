@@ -1,0 +1,203 @@
+---
+---
+
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv"
+;
+/* ---------- Custom styles for rejikjoseph.com (al-folio inspired) ---------- */
+/* Layout: one centred column, generous white space, thin Roboto, purple accent, light cards. */
+
+:root {
+  --rj-accent: #b509ac;
+  --rj-accent-soft: rgba(181, 9, 172, 0.08);
+  --rj-text: #1f1f24;
+  --rj-muted: #6d6a73;
+  --rj-faint: #c9c5cc;
+  --rj-rule: #e6e3e8;
+  --rj-card: #ffffff;
+  --rj-shadow: 0 2px 10px rgba(30, 20, 40, 0.10);
+  --rj-shadow-hover: 0 6px 18px rgba(30, 20, 40, 0.16);
+  --rj-footer-bg: #1f1f24;
+  --rj-footer-fg: #d9d6dc;
+  --rj-font: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --rj-width: 930px;
+}
+html[data-theme="dark"] {
+  --rj-accent: #e07ad9;
+  --rj-accent-soft: rgba(224, 122, 217, 0.12);
+  --rj-text: #e8e6ea;
+  --rj-muted: #a9a4ad;
+  --rj-faint: #4a4650;
+  --rj-rule: #34313a;
+  --rj-card: #24222a;
+  --rj-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
+  --rj-shadow-hover: 0 6px 18px rgba(0, 0, 0, 0.6);
+  --rj-footer-bg: #121115;
+  --rj-footer-fg: #a9a4ad;
+}
+
+html { font-size: 17px; }
+body, .page__title, h1, h2, h3, h4, .masthead, .greedy-nav a, .btn {
+  font-family: var(--rj-font);
+}
+body { font-weight: 300; color: var(--rj-text); background: var(--global-bg-color); }
+strong, b { font-weight: 500; }
+a { color: var(--rj-accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Masthead */
+.masthead { border-bottom: 1px solid var(--rj-rule); }
+.masthead__inner-wrap { max-width: var(--rj-width) !important; margin: 0 auto; padding: 0.9em 1em; }
+.greedy-nav { background: transparent; }
+.greedy-nav a { color: var(--rj-text); font-weight: 300; font-size: 1.02rem; }
+.greedy-nav a:hover { color: var(--rj-accent); text-decoration: none; }
+.greedy-nav .visible-links a:before { display: none; }
+.masthead__menu-item--lg a { font-size: 1.25rem; font-weight: 300; }
+.masthead__menu-item--lg a strong { font-weight: 700; }
+.masthead__menu-item.selected a { color: var(--rj-accent); }
+
+/* Page column */
+#main.clean-main {
+  max-width: var(--rj-width); width: auto; margin: 0 auto; padding: 2.5em 1em 4em;
+  animation: none; opacity: 1; float: none;
+}
+#main.clean-main::after { content: none; }
+.clean-page { min-width: 0; }
+.clean-page .page__title { font-size: 2.6rem; font-weight: 300; margin: 0.4em 0 0.6em; color: var(--rj-text); }
+.clean-page p, .clean-page li { line-height: 1.7; }
+.clean-page h2 { font-weight: 300; font-size: 1.7rem; border: 0; margin-top: 1.8em; }
+
+/* Home hero */
+.hero { display: flex; gap: 2em; align-items: center; justify-content: space-between; margin: 0.5em 0 1.5em; flex-wrap: wrap; }
+.hero-text { flex: 1 1 360px; min-width: 0; }
+.hero-name { font-size: 3rem; font-weight: 300; margin: 0 0 0.25em; line-height: 1.15; }
+.hero-name strong { font-weight: 700; }
+.hero-role { font-size: 1.15rem; margin: 0; color: var(--rj-muted); }
+.hero-affil { margin: 0.2em 0 0; color: var(--rj-muted); }
+.hero-photo { margin: 0; flex: 0 0 200px; }
+.hero-photo img { width: 200px; max-width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px; box-shadow: var(--rj-shadow); }
+
+/* About: bio left, large portrait right with details underneath (al-folio style) */
+.about-grid { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 2.5em; align-items: start; margin-top: 1.5em; }
+.about-text { grid-column: 1; grid-row: 1; min-width: 0; }
+.about-text p:first-child { margin-top: 0; }
+.about-card { grid-column: 2; grid-row: 1; }
+.about-photo { display: block; width: 100%; max-width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 4px; box-shadow: var(--rj-shadow); background: var(--rj-rule); }
+.about-details { margin-top: 1em; font-size: 0.92rem; line-height: 1.55; }
+.about-details p { margin: 0; }
+.about-designation { font-weight: 500; }
+.about-email { margin-top: 0.5em !important; word-break: break-all; }
+.about-email-alt { word-break: break-all; }
+
+/* Section labels: small caps line with a rule */
+.section-label {
+  font-size: 0.8rem !important; font-weight: 500 !important; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--rj-muted); border-bottom: 1px solid var(--rj-rule) !important; padding-bottom: 0.5em; margin: 2.6em 0 1.2em !important;
+}
+.more-link { text-align: right; font-size: 0.9rem; margin-top: 0.8em; }
+
+/* Topic chips */
+.chips { list-style: none; padding: 0; margin: 1.2em 0 0; display: flex; flex-wrap: wrap; gap: 0.5em; }
+.chips li { margin: 0; padding: 0.25em 0.85em; border-radius: 999px; background: var(--rj-accent-soft); color: var(--rj-accent); font-size: 0.85rem; font-weight: 400; }
+
+/* Cards (opinion pieces) */
+.card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1.2em; }
+.card {
+  display: flex; flex-direction: column; gap: 0.5em; padding: 1.2em 1.3em 1.1em; min-width: 0;
+  background: var(--rj-card); box-shadow: var(--rj-shadow); border-radius: 4px; color: var(--rj-text);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.card:hover { box-shadow: var(--rj-shadow-hover); transform: translateY(-2px); text-decoration: none; }
+.card-outlet { font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--rj-accent); font-weight: 500; }
+.card-title { font-size: 1.2rem; line-height: 1.35; font-weight: 400; }
+.card-date { margin-top: auto; font-size: 0.85rem; color: var(--rj-muted); }
+
+/* Recent talks rows */
+.news { display: grid; gap: 0.2em; }
+.news-row { display: grid; grid-template-columns: 6.5em 1fr; gap: 1em; padding: 0.55em 0; border-bottom: 1px solid var(--rj-rule); font-size: 0.95rem; line-height: 1.55; }
+.news-date { color: var(--rj-muted); font-variant-numeric: tabular-nums; }
+
+/* Book covers */
+.book-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 1.8em 1.4em; margin: 1em 0 1em; }
+.book-grid--three { grid-template-columns: repeat(3, minmax(0, 1fr)); max-width: 620px; }
+.book { min-width: 0; }
+.book img { width: 100%; max-width: 100%; aspect-ratio: 2 / 3; object-fit: cover; box-shadow: var(--rj-shadow); transition: box-shadow 0.2s ease, transform 0.2s ease; }
+.book a:hover img { box-shadow: var(--rj-shadow-hover); transform: translateY(-2px); }
+.book p { margin: 0.6em 0 0; line-height: 1.35; }
+.book-title { font-size: 0.88rem; font-weight: 400; }
+.book-title a { color: var(--rj-text); }
+.book-title a:hover { color: var(--rj-accent); }
+.book-meta { font-size: 0.78rem; color: var(--rj-muted); }
+
+/* Year jump links */
+.year-jump { font-size: 0.85rem; line-height: 2; margin: 0.5em 0 1em; color: var(--rj-faint); }
+
+/* Long lists: year as a large faint label on the right, over a rule */
+.entry-list h2, .entry-list h3 {
+  text-align: right; font-size: 2rem !important; font-weight: 300 !important; color: var(--rj-faint);
+  border-bottom: 1px solid var(--rj-rule) !important; padding-bottom: 0.1em; margin: 1.6em 0 0.9em !important;
+}
+.entry-list p { padding-left: 1.4em; text-indent: -1.4em; margin: 0 0 0.9em; font-size: 0.95rem; line-height: 1.6; }
+.entry-list p strong { font-weight: 500; }
+
+/* Teaching course card */
+.course { background: var(--rj-card); box-shadow: var(--rj-shadow); border-radius: 4px; padding: 1.6em 1.8em; }
+.course-meta { font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--rj-accent); font-weight: 500; margin: 0; }
+.course-title { margin: 0.4em 0 0.6em !important; font-size: 1.6rem !important; }
+.course-sub { font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--rj-muted); margin: 1.4em 0 0; }
+
+/* Footer: dark bar */
+.page__footer { background: var(--rj-footer-bg); color: var(--rj-footer-fg); border-top: 0; margin-top: 0; }
+.page__footer footer { max-width: var(--rj-width); margin: 0 auto; padding: 1em; text-align: center; }
+.page__footer-copyright { color: var(--rj-footer-fg); font-size: 0.8rem; }
+.page__footer a { color: var(--rj-footer-fg); text-decoration: underline; }
+
+@media (max-width: 600px) {
+  html { font-size: 16px; }
+  .hero { flex-direction: column-reverse; align-items: flex-start; }
+  .hero-photo, .hero-text { flex-basis: auto; }
+  .hero-photo img { width: 150px; }
+  .hero-name { font-size: 2.3rem; }
+  .about-grid { grid-template-columns: 1fr; gap: 1.5em; }
+  .about-card, .about-text { grid-column: 1; grid-row: auto; }
+  .about-card { max-width: 260px; }
+  .book-grid--three { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .news-row { grid-template-columns: 1fr; gap: 0.1em; }
+  .clean-page .page__title { font-size: 2.1rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .card, .book img { transition: none; }
+}
