@@ -21,6 +21,7 @@ redirect_from:
       <p>New Delhi, India</p>
       <p class="about-email"><a href="mailto:rejikjoseph@isid.org.in">rejikjoseph@isid.org.in</a></p>
       <p class="about-email-alt"><a href="mailto:rejikjoseph@gmail.com">rejikjoseph@gmail.com</a></p>
+      <p class="about-profiles"><a href="https://scholar.google.com/citations?user=CLAsFDEAAAAJ" rel="me">Google Scholar</a><span class="sep">|</span><a href="https://orcid.org/0000-0002-3562-5225" rel="me">ORCID</a><span class="sep">|</span><a href="https://www.linkedin.com/in/reji-k-joseph-24023414/" rel="me">LinkedIn</a></p>
     </div>
   </aside>
   <div class="about-text">

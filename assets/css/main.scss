@@ -261,3 +261,7 @@ html[data-theme="dark"] { --rj-bar: #2a0c2e; --rj-bar-fg: #f1e9f2; --rj-bar-acce
 .card a.card-title { color: var(--rj-text); text-decoration: none; }
 .card a.card-title:hover { color: var(--rj-accent); text-decoration: underline; }
 .card-date .pdf-link { margin-left: 0.6em; }
+
+/* Profile links under the photo */
+.about-profiles { margin-top: 0.6em !important; font-size: 0.86rem; }
+.about-profiles .sep { color: var(--rj-accent); margin: 0 0.45em; }
