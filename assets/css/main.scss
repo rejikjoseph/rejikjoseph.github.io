@@ -256,3 +256,8 @@ html[data-theme="dark"] { --rj-bar: #2a0c2e; --rj-bar-fg: #f1e9f2; --rj-bar-acce
 /* PDF download pill next to opinion pieces */
 .pdf-link { display: inline-block; margin-left: 0.4em; padding: 0 0.55em; font-size: 0.72rem; font-weight: 500; letter-spacing: 0.06em; line-height: 1.7; color: var(--rj-accent) !important; border: 1px solid var(--rj-accent); border-radius: 999px; text-decoration: none !important; vertical-align: 1px; }
 .pdf-link:hover { background: var(--rj-accent); color: #fff !important; }
+
+/* Opinion cards: title links to article, PDF pill beside date */
+.card a.card-title { color: var(--rj-text); text-decoration: none; }
+.card a.card-title:hover { color: var(--rj-accent); text-decoration: underline; }
+.card-date .pdf-link { margin-left: 0.6em; }

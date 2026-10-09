@@ -65,21 +65,21 @@ redirect_from:
 <h2 class="section-label">Recent opinion pieces</h2>
 
 <div class="card-grid">
-  <a class="card" href="https://www.financialexpress.com/opinion/a-potential-blessing-in-disguise-for-pharma/4306903/">
+  <div class="card">
     <span class="card-outlet">Financial Express</span>
-    <span class="card-title">A Potential Blessing in Disguise for Pharma</span>
-    <span class="card-date">31 July 2026</span>
-  </a>
-  <a class="card" href="https://www.financialexpress.com/policy/economy/explainernbspwill-reforming-bits-revive-fdi-inflows/4272997/">
+    <a class="card-title" href="https://www.financialexpress.com/opinion/a-potential-blessing-in-disguise-for-pharma/4306903/">A Potential Blessing in Disguise for Pharma</a>
+    <span class="card-date">31 July 2026 <a class="pdf-link" href="/files/opinion/2026-07-31-financial-express-a-potential-blessing-in-disguise.pdf">PDF</a></span>
+  </div>
+  <div class="card">
     <span class="card-outlet">Financial Express</span>
-    <span class="card-title">Will Reforming BITs Revive FDI Inflows?</span>
-    <span class="card-date">22 June 2026</span>
-  </a>
-  <a class="card" href="https://www.thehindubusinessline.com/opinion/india-korea-partnership-needs-deeper-engagement/article70984353.ece">
+    <a class="card-title" href="https://www.financialexpress.com/policy/economy/explainernbspwill-reforming-bits-revive-fdi-inflows/4272997/">Will Reforming BITs Revive FDI Inflows?</a>
+    <span class="card-date">22 June 2026 <a class="pdf-link" href="/files/opinion/2026-06-22-financial-express-will-reforming-bits-revive-fdi.pdf">PDF</a></span>
+  </div>
+  <div class="card">
     <span class="card-outlet">Business Line</span>
-    <span class="card-title">India-Korea Partnership Needs Deeper Engagement</span>
-    <span class="card-date">16 May 2026</span>
-  </a>
+    <a class="card-title" href="https://www.thehindubusinessline.com/opinion/india-korea-partnership-needs-deeper-engagement/article70984353.ece">India-Korea Partnership Needs Deeper Engagement</a>
+    <span class="card-date">16 May 2026 <a class="pdf-link" href="/files/opinion/2026-05-16-business-line-india-korea-partnership.pdf">PDF</a></span>
+  </div>
 </div>
 <p class="more-link"><a href="/opinion-pieces/">All opinion pieces →</a></p>
 

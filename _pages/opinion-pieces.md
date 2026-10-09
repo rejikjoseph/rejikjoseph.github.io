@@ -11,36 +11,36 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
 <h2 class="section-label">Latest</h2>
 
 <div class="card-grid">
-  <a class="card" href="https://www.financialexpress.com/opinion/a-potential-blessing-in-disguise-for-pharma/4306903/">
+  <div class="card">
     <span class="card-outlet">Financial Express</span>
-    <span class="card-title">A Potential Blessing in Disguise for Pharma</span>
-    <span class="card-date">31 July 2026</span>
-  </a>
-  <a class="card" href="https://www.financialexpress.com/policy/economy/explainernbspwill-reforming-bits-revive-fdi-inflows/4272997/">
+    <a class="card-title" href="https://www.financialexpress.com/opinion/a-potential-blessing-in-disguise-for-pharma/4306903/">A Potential Blessing in Disguise for Pharma</a>
+    <span class="card-date">31 July 2026 <a class="pdf-link" href="/files/opinion/2026-07-31-financial-express-a-potential-blessing-in-disguise.pdf">PDF</a></span>
+  </div>
+  <div class="card">
     <span class="card-outlet">Financial Express</span>
-    <span class="card-title">Will Reforming BITs Revive FDI Inflows?</span>
-    <span class="card-date">22 June 2026</span>
-  </a>
-  <a class="card" href="https://www.thehindubusinessline.com/opinion/india-korea-partnership-needs-deeper-engagement/article70984353.ece">
+    <a class="card-title" href="https://www.financialexpress.com/policy/economy/explainernbspwill-reforming-bits-revive-fdi-inflows/4272997/">Will Reforming BITs Revive FDI Inflows?</a>
+    <span class="card-date">22 June 2026 <a class="pdf-link" href="/files/opinion/2026-06-22-financial-express-will-reforming-bits-revive-fdi.pdf">PDF</a></span>
+  </div>
+  <div class="card">
     <span class="card-outlet">Business Line</span>
-    <span class="card-title">India-Korea Partnership Needs Deeper Engagement</span>
-    <span class="card-date">16 May 2026</span>
-  </a>
-  <a class="card" href="https://www.financialexpress.com/opinion/biopharma-strategy-needs-regulatory-focus/4148712/">
+    <a class="card-title" href="https://www.thehindubusinessline.com/opinion/india-korea-partnership-needs-deeper-engagement/article70984353.ece">India-Korea Partnership Needs Deeper Engagement</a>
+    <span class="card-date">16 May 2026 <a class="pdf-link" href="/files/opinion/2026-05-16-business-line-india-korea-partnership.pdf">PDF</a></span>
+  </div>
+  <div class="card">
     <span class="card-outlet">Financial Express</span>
-    <span class="card-title">Biopharma Strategy Needs Regulatory Focus</span>
-    <span class="card-date">20 February 2026</span>
-  </a>
-  <a class="card" href="https://indiasworld.in/trumps-reciprocal-tariff-policy-implications-for-indian-pharma-industry/">
+    <a class="card-title" href="https://www.financialexpress.com/opinion/biopharma-strategy-needs-regulatory-focus/4148712/">Biopharma Strategy Needs Regulatory Focus</a>
+    <span class="card-date">20 February 2026 <a class="pdf-link" href="/files/opinion/2026-02-20-financial-express-biopharma-strategy-regulatory-focus.pdf">PDF</a></span>
+  </div>
+  <div class="card">
     <span class="card-outlet">India's World: International Affairs-Indian Interests</span>
-    <span class="card-title">Trump's Reciprocal Tariff Policy: Implications for Indian Pharma Industry</span>
-    <span class="card-date">26 March 2025</span>
-  </a>
-  <a class="card" href="https://www.thehindubusinessline.com/opinion/pharma-pli-needs-to-be-revisited/article68121968.ece">
+    <a class="card-title" href="https://indiasworld.in/trumps-reciprocal-tariff-policy-implications-for-indian-pharma-industry/">Trump's Reciprocal Tariff Policy: Implications for Indian Pharma Industry</a>
+    <span class="card-date">26 March 2025 <a class="pdf-link" href="/files/opinion/2025-03-26-indias-world-trumps-reciprocal-tariff-policy.pdf">PDF</a></span>
+  </div>
+  <div class="card">
     <span class="card-outlet">Business Line</span>
-    <span class="card-title">Pharma PLI Needs to Be Revisited</span>
-    <span class="card-date">30 April 2024</span>
-  </a>
+    <a class="card-title" href="https://www.thehindubusinessline.com/opinion/pharma-pli-needs-to-be-revisited/article68121968.ece">Pharma PLI Needs to Be Revisited</a>
+    <span class="card-date">30 April 2024 <a class="pdf-link" href="/files/opinion/2024-04-30-business-line-pharma-pli-needs-to-be-revisited.pdf">PDF</a></span>
+  </div>
 </div>
 
 <h2 class="section-label">All opinion pieces</h2>
@@ -87,7 +87,7 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
 
 [**Innovation in India's Pharma Sector Matters to the World. Here's Why**](https://www.moneycontrol.com/news/opinion/innovation-in-indias-pharma-sector-matters-to-the-world-heres-why-8233491.html), *Moneycontrol.com*, 15 March 2022.
 
-**India to Be Self-Sufficient in Pharmaceutical Ingredients: Listen to Dr. Reji K Joseph in ISID**, *The Chemical Daily, Japan*, 8 March 2022. (Interview)
+**India to Be Self-Sufficient in Pharmaceutical Ingredients: Listen to Dr. Reji K Joseph in ISID**, *The Chemical Daily, Japan*, 8 March 2022. (Interview) [PDF](/files/opinion/2022-03-08-chemical-daily-japan-interview.pdf){: .pdf-link}
 
 [**A Self-Reliant Pharma Industry**](https://www.thehindu.com/opinion/op-ed/a-self-reliant-pharma-industry/article38393539.ece), *The Hindu*, 8 February 2022. (Co-author) [PDF](/files/opinion/2022-02-08-the-hindu-a-self-reliant-pharma-industry.pdf){: .pdf-link}
 
