@@ -135,6 +135,7 @@ html[data-theme="dark"] { --rj-bar: #2a0c2e; --rj-bar-fg: #f1e9f2; --rj-bar-acce
 .about-email-alt { word-break: break-all; }
 .about-sub { font-size: 0.8rem !important; font-weight: 500 !important; letter-spacing: 0.12em; text-transform: uppercase; color: var(--rj-muted); margin: 1.8em 0 0.2em !important; }
 .about-sub + .chips { margin-top: 0.6em; }
+.about-sub + .about-profiles { margin-top: 0.6em !important; }
 
 /* Section labels: small caps line with a rule */
 .section-label {
