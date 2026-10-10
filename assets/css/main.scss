@@ -263,8 +263,9 @@ html[data-theme="dark"] { --rj-bar: #2a0c2e; --rj-bar-fg: #f1e9f2; --rj-bar-acce
 .card-date .pdf-link { margin-left: 0.6em; }
 
 /* Profile links under the photo */
-.about-profiles { margin-top: 0.6em !important; font-size: 0.86rem; }
-.about-profiles .sep { color: var(--rj-accent); margin: 0 0.45em; }
+.about-profiles { margin-top: 0.8em !important; display: flex; flex-wrap: wrap; gap: 0.4em; }
+.about-profiles a { display: inline-block; padding: 0.1em 0.75em; font-size: 0.78rem; font-weight: 500; letter-spacing: 0.04em; line-height: 1.8; color: var(--rj-accent) !important; background: transparent !important; border: 1px solid var(--rj-accent); border-radius: 999px; text-decoration: none !important; }
+.about-profiles a:hover { background: var(--rj-accent) !important; color: #fff !important; }
 
 /* Text selection colour */
 ::selection { background: rgba(181, 9, 172, 0.18); color: inherit; }

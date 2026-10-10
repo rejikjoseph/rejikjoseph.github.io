@@ -21,12 +21,12 @@ redirect_from:
       <p>New Delhi, India</p>
       <p class="about-email"><a href="mailto:rejikjoseph@isid.org.in">rejikjoseph@isid.org.in</a></p>
       <p class="about-email-alt"><a href="mailto:rejikjoseph@gmail.com">rejikjoseph@gmail.com</a></p>
-      <p class="about-profiles"><a href="https://scholar.google.com/citations?user=CLAsFDEAAAAJ" rel="me">Google Scholar</a><span class="sep">|</span><a href="https://orcid.org/0000-0002-3562-5225" rel="me">ORCID</a><span class="sep">|</span><a href="https://www.linkedin.com/in/reji-k-joseph-24023414/" rel="me">LinkedIn</a><span class="sep">|</span><a href="https://x.com/rejikjoseph" rel="me">X</a></p>
+      <p class="about-profiles"><a href="https://scholar.google.com/citations?user=CLAsFDEAAAAJ" rel="me">Google Scholar</a><a href="https://www.linkedin.com/in/reji-k-joseph-24023414/" rel="me">LinkedIn</a><a href="https://x.com/rejikjoseph" rel="me">X</a><a href="https://orcid.org/0000-0002-3562-5225" rel="me">ORCID</a></p>
     </div>
   </aside>
   <div class="about-text">
     <p>I am an academic based in New Delhi, India, working on international trade and investment, innovation, and the Indian pharmaceutical industry. I have published widely across multiple formats, including books and monographs, peer-reviewed journal articles and book chapters, policy briefs, working papers, and opinion pieces in leading national dailies.</p>
-    <p>I am a faculty member at the Institute for Studies in Industrial Development (ISID), New Delhi, where I research issues in international trade and investment, innovation and the Indian pharmaceutical industry, and teach trade policy to PhD students. I hold a PhD in Economics from Jawaharlal Nehru University (JNU), New Delhi.</p>
+    <p>I am a faculty member at the Institute for Studies in Industrial Development (ISID), New Delhi, where I carry out research and teach in its PhD programme in Economics and Public Policy. I hold a PhD in Economics from Jawaharlal Nehru University (JNU), New Delhi.</p>
     <h3 class="about-sub">Research Interests</h3>
     <ul class="chips">
       <li>International trade and investment</li>
