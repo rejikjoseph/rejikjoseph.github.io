@@ -62,7 +62,7 @@ author_profile: false
 
 ### 2025 {#y2025}
 
-**India-Korea Economic Cooperation: Trends, Issues and Way Forward to Deepen the Partnership**, in Byungyul Park and Reji K. Joseph (Eds.), [*Reimagining India-Korea Economic Partnership: Pathways to Deeper Integration*](https://isid.org.in/publication/reimagining-india-korea-economic-partnership-pathways-to-deeper-integration/), ISID, New Delhi and KIET, Sejong, Korea, pp. 5–32 (Co-author, first author).
+**India-Korea Economic Cooperation: Trends, Issues and Way Forward to Deepen the Partnership**, in Byungyul Park and Reji K. Joseph (Eds.), [*Reimagining India-Korea Economic Partnership: Pathways to Deeper Integration*](https://isid.org.in/publication/reimagining-india-korea-economic-partnership-pathways-to-deeper-integration/), ISID, New Delhi and KIET, Sejong, Korea, pp. 5–32.
 
 **Deepening India-Korea Economic Engagement with a Focus on the Indian Manufacturing Sector**, ISID Working Paper No. 294.
 
@@ -71,7 +71,7 @@ author_profile: false
 
 ### 2024 {#y2024}
 
-**Making Global Pharma Supply Chain Resilient: Will the PLI Scheme of India Make It a Reliable Alternative to China for the Supply of APIs?**, *Indian Economic Journal*, Online first, [https://doi.org/10.1177/00194662241265475](https://doi.org/10.1177/00194662241265475) (Co-author, corresponding author).
+**Making Global Pharma Supply Chain Resilient: Will the PLI Scheme of India Make It a Reliable Alternative to China for the Supply of APIs?**, *Indian Economic Journal*, Online first, [https://doi.org/10.1177/00194662241265475](https://doi.org/10.1177/00194662241265475).
 
 
 ### 2023 {#y2023}
@@ -81,7 +81,7 @@ author_profile: false
 
 ### 2022 {#y2022}
 
-[**India's Trade in Pharmaceutical Products: A Method for the Classification of Pharmaceutical Products and Recent Trends**](https://isid.org.in/wp-content/uploads/2022/08/WP248.pdf), ISID Working Paper No. 248 (Co-author, first author).
+[**India's Trade in Pharmaceutical Products: A Method for the Classification of Pharmaceutical Products and Recent Trends**](https://isid.org.in/wp-content/uploads/2022/08/WP248.pdf), ISID Working Paper No. 248.
 
 
 ### 2021 {#y2021}
@@ -108,11 +108,11 @@ author_profile: false
 
 ### 2019 {#y2019}
 
-**India's Information Technology Industry: A Tale of Two Halves**, in Kung-Chung Liu and Uday Racherla (Eds.), *Innovation, Economic Development, and Intellectual Property in India and China: Comparing Six Economic Sectors*, Springer, Singapore (Co-author, second author).
+**India's Information Technology Industry: A Tale of Two Halves**, in Kung-Chung Liu and Uday Racherla (Eds.), *Innovation, Economic Development, and Intellectual Property in India and China: Comparing Six Economic Sectors*, Springer, Singapore.
 
-**The Challenges, Opportunities and Performance of the Indian Pharmaceutical Industry Post-TRIPS**, in Kung-Chung Liu and Uday Racherla (Eds.), *Innovation, Economic Development, and Intellectual Property in India and China: Comparing Six Economic Sectors*, Springer, Singapore (Co-author, second author).
+**The Challenges, Opportunities and Performance of the Indian Pharmaceutical Industry Post-TRIPS**, in Kung-Chung Liu and Uday Racherla (Eds.), *Innovation, Economic Development, and Intellectual Property in India and China: Comparing Six Economic Sectors*, Springer, Singapore.
 
-**Standard Essential Patents and FRAND Licensing: A View from India**, in Kung-Chung Liu and Reto M. Hilty (Eds.), *SEPs, SSOs and FRAND: Asian and Global Perspectives on Fostering Innovation in Interconnectivity*, Routledge, London and New York (Co-author, second author).
+**Standard Essential Patents and FRAND Licensing: A View from India**, in Kung-Chung Liu and Reto M. Hilty (Eds.), *SEPs, SSOs and FRAND: Asian and Global Perspectives on Fostering Innovation in Interconnectivity*, Routledge, London and New York.
 
 **Investment Facilitation Agreement in WTO: Where Is It Headed?**, in Lisa Sachs, Lise Johnson and Jesse Coleman (Eds.), *Yearbook on International Investment Law & Policy 2017*, Oxford University Press, Oxford, pp. 65–73.
 
@@ -130,7 +130,7 @@ author_profile: false
 
 ### 2017 {#y2017}
 
-**Multilateral Regime on Foreign Investment under WTO: A Hard Nut to Crack?**, *Journal of Political Economy and Fiscal Federalism*, Vol. 3, pp. 21–31 (Co-author, first author).
+**Multilateral Regime on Foreign Investment under WTO: A Hard Nut to Crack?**, *Journal of Political Economy and Fiscal Federalism*, Vol. 3, pp. 21–31.
 
 **National Innovation System: Experiences of India and China**, in Girish Kumar (Ed.), *Globalisation and India's Innovation System: A Creative Destruction*, Mahatma Gandhi University, Kerala.
 
@@ -141,7 +141,7 @@ author_profile: false
 
 ### 2016 {#y2016}
 
-**Foreign Direct Investment, Intellectual Property Rights and Technology Transfer**, in Mousumi Das, Sabyasachi Kar and Nandan Nawn (Eds.), *Economic Challenges for the Contemporary World: Essays in Honour of Prabhat Patnaik*, Sage Publications, New Delhi, pp. 131–142 (Co-author, second author).
+**Foreign Direct Investment, Intellectual Property Rights and Technology Transfer**, in Mousumi Das, Sabyasachi Kar and Nandan Nawn (Eds.), *Economic Challenges for the Contemporary World: Essays in Honour of Prabhat Patnaik*, Sage Publications, New Delhi, pp. 131–142.
 
 [**Trends in Foreign Investment in Healthcare Sector of India**](https://isid.org.in/wp-content/uploads/2022/09/WP187.pdf), ISID Working Paper No. 187.
 
@@ -150,7 +150,7 @@ author_profile: false
 
 ### 2015 {#y2015}
 
-**Developments in India's Domestic Pharmaceutical Sector and Implications for Universal Healthcare in India**, in Council for Social Development, *India Social Development Report 2014: Challenges of Public Health*, Oxford University Press, New Delhi (Co-author, second author).
+**Developments in India's Domestic Pharmaceutical Sector and Implications for Universal Healthcare in India**, in Council for Social Development, *India Social Development Report 2014: Challenges of Public Health*, Oxford University Press, New Delhi.
 
 
 ### 2014 {#y2014}
@@ -162,9 +162,9 @@ author_profile: false
 
 [**The R&D Scenario in the Indian Pharmaceutical Industry**](http://ris.org.in/images/RIS_images/pdf/dp176_pap.pdf), RIS Discussion Paper No. 176.
 
-**India's Bilateral Agreements: Time to Review**, *Economic and Political Weekly*, Vol. XLVII, No. 52, pp. 113–122 (Co-author, second author).
+**India's Bilateral Agreements: Time to Review**, *Economic and Political Weekly*, Vol. XLVII, No. 52, pp. 113–122.
 
-**Approval of GM Crops: Socio-Economic Considerations in Developing Countries**, *Economic and Political Weekly*, Vol. XLVII, No. 23, pp. 53–61 (Co-author, third author).
+**Approval of GM Crops: Socio-Economic Considerations in Developing Countries**, *Economic and Political Weekly*, Vol. XLVII, No. 23, pp. 53–61.
 
 **Policy Reforms in the Indian Pharmaceuticals Sector since 1994: Impact on Exports and Imports**, *Economic and Political Weekly*, Vol. XLVII, No. 18, pp. 62–72.
 
@@ -173,7 +173,7 @@ author_profile: false
 
 **International Regime on Access and Benefit Sharing: Where Are We Now?**, *Asian Biotechnology and Development Review*, Vol. 12, No. 3, pp. 77–94.
 
-**Anti-Counterfeiting Initiatives and Trade in Generic Medicines**, *Poverty in Focus* (What Can IBSA Offer to the Global Community?), No. 21, UNDP – International Policy Centre for Inclusive Growth, pp. 20–22 (Co-author, second author).
+**Anti-Counterfeiting Initiatives and Trade in Generic Medicines**, *Poverty in Focus* (What Can IBSA Offer to the Global Community?), No. 21, UNDP – International Policy Centre for Inclusive Growth, pp. 20–22.
 
 **India's Engagement with the World Trade Organization: The Role of Non-State Agents**, in Amitabh Mattoo and Happymon Jacob (Eds.), *Shaping India's Foreign Policy: People, Politics and Places*, Har Anand Publishers, New Delhi, pp. 275–296.
 

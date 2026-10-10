@@ -63,7 +63,7 @@ redirect_from:
     <a href="https://isid.org.in/publication/reimagining-india-korea-economic-partnership-pathways-to-deeper-integration/"><img src="/images/books/chapter-2025-india-korea-economic-cooperation.jpg" alt="First page of the chapter India-Korea Economic Cooperation: Trends, Issues and Way Forward to Deepen the Partnership" loading="lazy"></a>
     <p class="pub-type">Book chapter</p>
     <p class="book-title"><a href="https://isid.org.in/publication/reimagining-india-korea-economic-partnership-pathways-to-deeper-integration/">India-Korea Economic Cooperation: Trends, Issues and Way Forward to Deepen the Partnership</a></p>
-    <p class="book-meta">In <em>Reimagining India-Korea Economic Partnership</em>, ISID and KIET, 2025, pp. 5–32 (co-author).</p>
+    <p class="book-meta">In <em>Reimagining India-Korea Economic Partnership</em>, ISID and KIET, 2025, pp. 5–32.</p>
   </div>
 </div>
 <p class="more-link"><a href="/publications/">All publications →</a></p>
