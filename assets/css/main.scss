@@ -271,3 +271,11 @@ html[data-theme="dark"] { --rj-bar: #2a0c2e; --rj-bar-fg: #f1e9f2; --rj-bar-acce
 /* Text selection colour */
 ::selection { background: rgba(181, 9, 172, 0.18); color: inherit; }
 ::-moz-selection { background: rgba(181, 9, 172, 0.18); color: inherit; }
+
+/* Recent publications (About): type label + text "cover" when no image */
+.book p.pub-type { margin-top: 0.7em; font-size: 0.68rem; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: var(--rj-accent); }
+.book p.pub-type + .book-title { margin-top: 0.2em; }
+.pub-cover { display: flex; flex-direction: column; justify-content: center; gap: 1em; width: 100%; aspect-ratio: 2 / 3; padding: 12% 10%; box-sizing: border-box; background: linear-gradient(160deg, #4a1450 0%, #2a0c2e 100%); border-left: 6px solid var(--rj-accent); box-shadow: var(--rj-shadow); transition: box-shadow 0.2s ease, transform 0.2s ease; }
+.book a:hover .pub-cover { box-shadow: var(--rj-shadow-hover); transform: translateY(-2px); }
+.pub-cover-kind { font-size: 0.7rem; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #f3b6ee; }
+.pub-cover-title { font-size: 1.05rem; line-height: 1.35; font-weight: 400; color: #ffffff; }
