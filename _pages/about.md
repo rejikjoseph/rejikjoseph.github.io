@@ -7,6 +7,7 @@ author_profile: false
 redirect_from:
   - /about/
   - /about.html
+  - /home/
 ---
 
 <h1 class="hero-name">Reji K. Joseph</h1>
