@@ -29,10 +29,11 @@ redirect_from:
     <p>I am a faculty member at the Institute for Studies in Industrial Development (ISID), New Delhi, where I carry out research and teach in its PhD programme in Economics and Public Policy. I hold a PhD in Economics from Jawaharlal Nehru University (JNU), New Delhi.</p>
     <h3 class="about-sub">Research Interests</h3>
     <ul class="chips">
-      <li>International trade and investment</li>
+      <li>Indian pharmaceutical industry</li>
       <li>R&amp;D, technology and innovation policies</li>
       <li>Industrial policy</li>
-      <li>Indian pharmaceutical industry</li>
+      <li>Trade policy</li>
+      <li>Foreign direct investment</li>
     </ul>
     <h3 class="about-sub">Find me online</h3>
     <p class="about-profiles"><a href="https://scholar.google.com/citations?user=CLAsFDEAAAAJ" rel="me">Google Scholar</a><a href="https://www.linkedin.com/in/reji-k-joseph-24023414/" rel="me">LinkedIn</a><a href="https://x.com/rejikjoseph" rel="me">X</a><a href="https://orcid.org/0000-0002-3562-5225" rel="me">ORCID</a></p>
