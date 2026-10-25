@@ -25,7 +25,7 @@ redirect_from:
     </div>
   </aside>
   <div class="about-text">
-    <p>I am an academic based in New Delhi, India, working on international trade and investment, innovation, and the Indian pharmaceutical industry. I have published widely across multiple formats, including books and monographs, peer-reviewed journal articles and book chapters, policy briefs, working papers, and opinion pieces in leading national dailies.</p>
+    <p>I am an academic based in New Delhi, India, with research interests in the Indian pharmaceutical industry, innovation and industrial policy, and international trade and investment. I have published widely across multiple formats, including books and monographs, peer-reviewed journal articles and book chapters, policy briefs, working papers, and opinion pieces in leading national dailies.</p>
     <p>I am a faculty member at the Institute for Studies in Industrial Development (ISID), New Delhi, where I carry out research and teach in its PhD programme in Economics and Public Policy. I hold a PhD in Economics from Jawaharlal Nehru University (JNU), New Delhi.</p>
     <h3 class="about-sub">Research Interests</h3>
     <ul class="chips">
