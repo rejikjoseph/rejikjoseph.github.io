@@ -12,6 +12,11 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
 
 <div class="card-grid">
   <div class="card">
+    <span class="card-outlet">Business Line</span>
+    <a class="card-title" href="https://www.thehindubusinessline.com/opinion/how-indian-enterprises-can-scale-up-rampd-spend/article71653470.ece">How Indian Enterprises Can Scale Up R&amp;D Spend</a>
+    <span class="card-date">2 November 2026 <a class="pdf-link" href="/files/opinion/2026-11-02-business-line-scale-up-rd-spend.pdf">PDF</a></span>
+  </div>
+  <div class="card">
     <span class="card-outlet">Financial Express</span>
     <a class="card-title" href="https://www.financialexpress.com/opinion/a-potential-blessing-in-disguise-for-pharma/4306903/">A Potential Blessing in Disguise for Pharma</a>
     <span class="card-date">31 July 2026 <a class="pdf-link" href="/files/opinion/2026-07-31-financial-express-a-potential-blessing-in-disguise.pdf">PDF</a></span>
@@ -36,11 +41,6 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
     <a class="card-title" href="https://indiasworld.in/trumps-reciprocal-tariff-policy-implications-for-indian-pharma-industry/">Trump's Reciprocal Tariff Policy: Implications for Indian Pharma Industry</a>
     <span class="card-date">26 March 2025 <a class="pdf-link" href="/files/opinion/2025-03-26-indias-world-trumps-reciprocal-tariff-policy.pdf">PDF</a></span>
   </div>
-  <div class="card">
-    <span class="card-outlet">Business Line</span>
-    <a class="card-title" href="https://www.thehindubusinessline.com/opinion/pharma-pli-needs-to-be-revisited/article68121968.ece">Pharma PLI Needs to Be Revisited</a>
-    <span class="card-date">30 April 2024 <a class="pdf-link" href="/files/opinion/2024-04-30-business-line-pharma-pli-needs-to-be-revisited.pdf">PDF</a></span>
-  </div>
 </div>
 
 <h2 class="section-label">All opinion pieces</h2>
@@ -48,6 +48,8 @@ Op-eds and articles in newspapers, magazines and online platforms, newest first.
 <div class="entry-list" markdown="1">
 
 ## 2026 {#y2026}
+
+[**How Indian Enterprises Can Scale Up R&D Spend**](https://www.thehindubusinessline.com/opinion/how-indian-enterprises-can-scale-up-rampd-spend/article71653470.ece), *Business Line*, 2 November 2026. [PDF](/files/opinion/2026-11-02-business-line-scale-up-rd-spend.pdf){: .pdf-link}
 
 [**A Potential Blessing in Disguise for Pharma**](https://www.financialexpress.com/opinion/a-potential-blessing-in-disguise-for-pharma/4306903/), *Financial Express*, 31 July 2026. [PDF](/files/opinion/2026-07-31-financial-express-a-potential-blessing-in-disguise.pdf){: .pdf-link}
 

@@ -74,6 +74,11 @@ redirect_from:
 
 <div class="card-grid">
   <div class="card">
+    <span class="card-outlet">Business Line</span>
+    <a class="card-title" href="https://www.thehindubusinessline.com/opinion/how-indian-enterprises-can-scale-up-rampd-spend/article71653470.ece">How Indian Enterprises Can Scale Up R&amp;D Spend</a>
+    <span class="card-date">2 November 2026 <a class="pdf-link" href="/files/opinion/2026-11-02-business-line-scale-up-rd-spend.pdf">PDF</a></span>
+  </div>
+  <div class="card">
     <span class="card-outlet">Financial Express</span>
     <a class="card-title" href="https://www.financialexpress.com/opinion/a-potential-blessing-in-disguise-for-pharma/4306903/">A Potential Blessing in Disguise for Pharma</a>
     <span class="card-date">31 July 2026 <a class="pdf-link" href="/files/opinion/2026-07-31-financial-express-a-potential-blessing-in-disguise.pdf">PDF</a></span>
@@ -82,11 +87,6 @@ redirect_from:
     <span class="card-outlet">Financial Express</span>
     <a class="card-title" href="https://www.financialexpress.com/policy/economy/explainernbspwill-reforming-bits-revive-fdi-inflows/4272997/">Will Reforming BITs Revive FDI Inflows?</a>
     <span class="card-date">22 June 2026 <a class="pdf-link" href="/files/opinion/2026-06-22-financial-express-will-reforming-bits-revive-fdi.pdf">PDF</a></span>
-  </div>
-  <div class="card">
-    <span class="card-outlet">Business Line</span>
-    <a class="card-title" href="https://www.thehindubusinessline.com/opinion/india-korea-partnership-needs-deeper-engagement/article70984353.ece">India-Korea Partnership Needs Deeper Engagement</a>
-    <span class="card-date">16 May 2026 <a class="pdf-link" href="/files/opinion/2026-05-16-business-line-india-korea-partnership.pdf">PDF</a></span>
   </div>
 </div>
 <p class="more-link"><a href="/opinion-pieces/">All opinion pieces →</a></p>
