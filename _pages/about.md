@@ -94,8 +94,8 @@ redirect_from:
 <h2 class="section-label">Recent talks</h2>
 
 <div class="news">
+  <div class="news-row"><span class="news-date">Oct 2026</span><span><strong>Beyond Aggregate Trade Data</strong> and <strong>PLI Scheme and Export Competitiveness</strong> (Discussant), ISID-IDRA Fourth National Conference, New Delhi</span></div>
   <div class="news-row"><span class="news-date">Aug 2026</span><span><strong>Perspectives for the Next Decade of Investments in India</strong> (Discussant), Asia Pacific Consulting and Advisory, New Delhi</span></div>
   <div class="news-row"><span class="news-date">Jun 2026</span><span><strong>Understanding the Pharmaceutical Industry</strong>, Annual Course on Access to Medicines, TRIPS and Patents, CUSAT and Third World Network, Kochi</span></div>
-  <div class="news-row"><span class="news-date">Apr 2026</span><span><strong>Opportunities and Challenges in CEPA Upgradation: An Indian Perspective</strong>, Korea-India Economic Partnership Dialogue 2026, KIEP, New Delhi</span></div>
 </div>
 <p class="more-link"><a href="/talks/">All talks →</a></p>

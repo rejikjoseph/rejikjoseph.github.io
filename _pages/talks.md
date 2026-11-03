@@ -14,6 +14,8 @@ Invited lectures, conference presentations, and roles as panellist, discussant a
 
 ## 2026 {#y2026}
 
+**Beyond Aggregate Trade Data: Assessing Structural Vulnerability Across India's Leading Export Sectors** and **PLI Scheme and Export Competitiveness: A Comparative Study of Electronics, Apparel, and Pharmaceuticals** (Discussant), Technical Session on Industrial Policy, Trade and Competitiveness, *ISID-IDRA Fourth National Conference*, New Delhi, 29–31 October 2026.
+
 **Perspectives for the Next Decade of Investments in India** (Discussant), Seminar organised by Asia Pacific Consulting and Advisory, New Delhi, 20 August 2026.
 
 **Understanding the Pharmaceutical Industry**, *Annual Course on Access to Medicines, TRIPS and Patents*, Inter-University Centre for IPR Studies, CUSAT and Third World Network, Kochi, 8 June 2026.
