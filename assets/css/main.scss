@@ -279,3 +279,31 @@ html[data-theme="dark"] { --rj-bar: #2a0c2e; --rj-bar-fg: #f1e9f2; --rj-bar-acce
 .book a:hover .pub-cover { box-shadow: var(--rj-shadow-hover); transform: translateY(-2px); }
 .pub-cover-kind { font-size: 0.7rem; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #f3b6ee; }
 .pub-cover-title { font-size: 1.05rem; line-height: 1.35; font-weight: 400; color: #ffffff; }
+
+/* Research Projects page: cards with cover thumbnails (added Nov 2026) */
+.project-list h2 {
+  text-align: right; font-size: 1.6rem !important; font-weight: 300 !important; color: var(--rj-faint);
+  border-bottom: 1px solid var(--rj-rule) !important; padding-bottom: 0; line-height: 1.2; margin: 1.1em 0 0.6em !important;
+}
+.project-list > h2:first-child { margin-top: 0.2em !important; }
+.project {
+  display: grid; grid-template-columns: 176px minmax(0, 1fr); gap: 0 1.3em; align-items: start;
+  margin: 0 0 0.6em; padding: 0.9em 1.1em;
+  background: var(--rj-card); border: 1px solid var(--rj-rule); border-left: 4px solid var(--rj-accent);
+  border-radius: 6px; box-shadow: 0 1px 4px rgba(30, 20, 40, 0.06);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.project:hover { box-shadow: var(--rj-shadow-hover); transform: translateY(-1px); }
+.project-covers { display: flex; gap: 8px; align-items: flex-start; justify-content: center; }
+.project-covers img { display: block; width: 84px; height: auto; box-shadow: var(--rj-shadow); }
+.project-covers a:hover img { box-shadow: var(--rj-shadow-hover); }
+.project-body p { margin: 0; }
+.project-type { font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--rj-accent) !important; font-weight: 500; margin-bottom: 0.25em !important; }
+.project-title { font-size: 0.95rem; line-height: 1.55; margin-bottom: 0.35em !important; }
+.project-title strong { font-weight: 500; }
+.project-meta { font-size: 0.85rem; line-height: 1.5; color: var(--rj-muted) !important; margin-top: 0.2em !important; }
+.project-meta .label { color: var(--rj-text); font-weight: 500; }
+@media (max-width: 600px) {
+  .project { grid-template-columns: 1fr; }
+  .project-covers { margin-bottom: 0.7em; justify-content: flex-start; }
+}
