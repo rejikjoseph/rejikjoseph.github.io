@@ -152,7 +152,7 @@ author_profile: false
     <p class="project-type">Sponsored research</p>
     <p class="project-title"><strong>Indian Pharmaceutical Industry</strong> and <strong>IT Industry</strong>, under the project <em>Innovation, Economic Development and IP in India and China</em>. (Sponsored by Max Planck Institute for Innovation and Competition, Germany, in collaboration with the Applied Research Centre for Intellectual Assets and the Law in Asia, Singapore Management University).</p>
     <p class="project-meta"><span class="label">Team:</span> Biswajit Dhar (Project Director) and Reji K. Joseph (Co-Director).</p>
-    <p class="project-meta"><span class="label">Output:</span> Two chapters, <a href="https://link.springer.com/chapter/10.1007/978-981-13-8102-7_13"><em>The Challenges, Opportunities and Performance of the Indian Pharmaceutical Industry Post-TRIPS</em></a> and <a href="https://link.springer.com/chapter/10.1007/978-981-13-8102-7_5"><em>India’s Information Technology Industry: A Tale of Two Halves</em></a>, in a <a href="https://link.springer.com/book/10.1007/978-981-13-8102-7">book</a> (2019).</p>
+    <p class="project-meta"><span class="label">Output:</span> Two chapters, <a href="https://link.springer.com/chapter/10.1007/978-981-13-8102-7_13"><em>The Challenges, Opportunities and Performance of the Indian Pharmaceutical Industry Post-TRIPS</em></a> and <a href="https://link.springer.com/chapter/10.1007/978-981-13-8102-7_5"><em>India’s Information Technology Industry: A Tale of Two Halves</em></a>, in a <a href="https://link.springer.com/book/10.1007/978-981-13-8102-7">book by Springer</a> (2019).</p>
   </div>
 </div>
 
