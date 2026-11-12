@@ -303,6 +303,8 @@ html[data-theme="dark"] { --rj-bar: #2a0c2e; --rj-bar-fg: #f1e9f2; --rj-bar-acce
 .project-title strong { font-weight: 500; }
 .project-meta { font-size: 0.85rem; line-height: 1.5; color: var(--rj-muted) !important; margin-top: 0.2em !important; }
 .project-meta .label { color: var(--rj-text); font-weight: 500; }
+.project-desc { font-size: 0.92rem; line-height: 1.55; margin-bottom: 0.35em !important; }
+.project.no-cover { grid-template-columns: minmax(0, 1fr); }
 @media (max-width: 600px) {
   .project { grid-template-columns: 1fr; }
   .project-covers { margin-bottom: 0.7em; justify-content: flex-start; }
