@@ -5,9 +5,6 @@ permalink: /projects/
 author_profile: false
 ---
 
-Research projects and studies I have led or contributed to, newest first. Sponsored studies name the sponsoring agency.
-{: .page-intro}
-
 <div class="project-list">
 
 <h2 id="p2026">2026</h2>
