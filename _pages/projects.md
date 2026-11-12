@@ -40,8 +40,8 @@ author_profile: false
 <h2 id="p2023-present">2023–present</h2>
 <div class="project">
   <div class="project-covers">
-    <a href="https://isid.org.in/publication/reimagining-india-korea-economic-partnership-pathways-to-deeper-integration/"><img src="/images/books/reimagining-india-korea-economic-partnership-pathw.jpg" alt="Cover of Reimagining India-Korea Economic Partnership" loading="lazy"></a>
-    <a href="https://isid.org.in/publication/korea-india-industrial-collaboration-driving-shared-growth-and-future-prosperity/"><img src="/images/books/korea-india-industrial-collaboration-driving-share.jpg" alt="Cover of Korea-India Industrial Collaboration" loading="lazy"></a>
+    <a href="https://isid.org.in/publication/reimagining-india-korea-economic-partnership-pathways-to-deeper-integration/"><img src="/images/projects/2025-isid-kiet-reimagining.jpg" alt="Cover of Reimagining India-Korea Economic Partnership" loading="lazy"></a>
+    <a href="https://isid.org.in/publication/korea-india-industrial-collaboration-driving-shared-growth-and-future-prosperity/"><img src="/images/projects/2026-kiet-isid-collaboration.jpg" alt="Cover of Korea-India Industrial Collaboration" loading="lazy"></a>
   </div>
   <div class="project-body">
     <p class="project-title"><strong>Deepening India-Korea Economic Cooperation</strong></p>
@@ -79,7 +79,7 @@ author_profile: false
 <h2 id="p2022-23">2022–23</h2>
 <div class="project">
   <div class="project-covers">
-    <a href="https://pharma-dept.gov.in/sites/default/files/Updated%20Strategy%20for%20Leveraging%20ASEAN%20FTA%20and%20trade%20potential%20with%20the%20Middle%20East%20Countries%20for%20Pharma%20Sector%20in%20India%20Final%20-%20ISID.pdf"><img src="/images/books/strategy-for-leveraging-asean-fta-and-trade-potent.jpg" alt="Cover of Strategy for Leveraging ASEAN FTA and Trade Potential with the Middle East Countries for Pharma Sector in India" loading="lazy"></a>
+    <a href="https://pharma-dept.gov.in/sites/default/files/Updated%20Strategy%20for%20Leveraging%20ASEAN%20FTA%20and%20trade%20potential%20with%20the%20Middle%20East%20Countries%20for%20Pharma%20Sector%20in%20India%20Final%20-%20ISID.pdf"><img src="/images/projects/2023-dop-asean-fta-strategy.jpg" alt="Cover of Strategy for Leveraging ASEAN FTA and Trade Potential with the Middle East Countries for Pharma Sector in India" loading="lazy"></a>
   </div>
   <div class="project-body">
     <p class="project-type">Sponsored research</p>
@@ -106,7 +106,7 @@ author_profile: false
 <div class="project">
   <div class="project-covers">
     <a href="https://isid.org.in/wp-content/uploads/2022/07/WP239.pdf"><img src="/images/projects/2021-wp239-api-import-dependence.jpg" alt="Cover of ISID Working Paper No. 239" loading="lazy"></a>
-    <a href="https://journals.sagepub.com/doi/full/10.1177/00194662241265475"><img src="/images/projects/2021-indian-economic-journal.jpg" alt="Cover of The Indian Economic Journal" loading="lazy"></a>
+    <a href="https://journals.sagepub.com/doi/full/10.1177/00194662241265475"><img src="/images/projects/2021-indian-economic-journal.jpg" alt="First page of the article in The Indian Economic Journal" loading="lazy"></a>
   </div>
   <div class="project-body">
     <p class="project-title"><strong>Reducing Import Dependence on APIs: Early Experience of the PLI Scheme</strong></p>
@@ -159,7 +159,7 @@ author_profile: false
 <h2 id="p2009">2009</h2>
 <div class="project">
   <div class="project-covers">
-    <a href="https://wtocentre.iift.ac.in/Books/Trade%20Barrier%20Report.pdf"><img src="/images/books/review-of-trade-policies-of-india-s-major-trading-.png" alt="Cover of Review of Trade Policies of India's Major Trading Partners" loading="lazy"></a>
+    <a href="https://wtocentre.iift.ac.in/Books/Trade%20Barrier%20Report.pdf"><img src="/images/projects/2009-trade-policies-review.jpg" alt="Cover of Review of Trade Policies of India's Major Trading Partners" loading="lazy"></a>
   </div>
   <div class="project-body">
     <p class="project-title"><strong>Review of Trade Policies of India’s Major Trading Partners</strong></p>
