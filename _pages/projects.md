@@ -33,7 +33,7 @@ author_profile: false
     <p class="project-title"><strong>Resilient Global Value Chains (GVCs) to Promote Fair and Equitable Trade</strong>, as part of India’s BRICS Chairship 2026.</p>
     <p class="project-desc">ISID’s knowledge partnership with the Department of Commerce, Ministry of Commerce and Industry, Government of India, under the <em>BRICS Contact Group on Economic and Trade Issues (CGETI)</em>. (Sponsored by Department of Commerce).</p>
     <p class="project-meta"><span class="label">Team:</span> Nagesh Kumar (Project Director), Reji K. Joseph (Focal Point, coordinating inputs between ISID and the Department of Commerce) and Isha Chawla.</p>
-    <p class="project-meta"><span class="label">Output:</span> Contribution used in the <a href="https://d2jiw2zrmmyqt8.cloudfront.net/wp-content/uploads/2026/08/18114422/Chairs-statement-and-Outcome-document-7-august-2026.pdf">Chair’s Statement and Outcome Document of the Sixteenth Meeting of the BRICS Trade Ministers</a>, Jaipur, India, 7 August 2026.</p>
+    <p class="project-meta"><span class="label">Output:</span> Contribution used in the <a href="https://d2jiw2zrmmyqt8.cloudfront.net/wp-content/uploads/2026/08/18114422/Chairs-statement-and-Outcome-document-7-august-2026.pdf"><em>Chair’s Statement and Outcome Document of the Sixteenth Meeting of the BRICS Trade Ministers</em></a>, Jaipur, India, 7 August 2026.</p>
   </div>
 </div>
 
