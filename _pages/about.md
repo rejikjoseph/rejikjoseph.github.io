@@ -27,6 +27,7 @@ redirect_from:
   <div class="about-text">
     <p>I am an academic based in New Delhi, India, with research interests in the Indian pharmaceutical industry, innovation and industrial policy, and international trade and investment. I have published widely across multiple formats, including books and monographs, peer-reviewed journal articles and book chapters, policy briefs, working papers, and opinion pieces in leading national dailies.</p>
     <p>I am a faculty member at the Institute for Studies in Industrial Development (ISID), New Delhi, where I carry out research and teach in its PhD programme in Economics and Public Policy. I hold a PhD in Economics from Jawaharlal Nehru University (JNU), New Delhi.</p>
+    <p>Before joining ISID, I was an Assistant Professor at the Central University of Gujarat (then in Gandhinagar, now in Vadodara). Earlier, I worked as a Consultant with the Research and Information System for Developing Countries (RIS), the Centre for WTO Studies at the Indian Institute of Foreign Trade (IIFT), and the National Commission for Enterprises in the Unorganised Sector (NCEUS), all in New Delhi.</p>
     <h3 class="about-sub">Research Interests</h3>
     <ul class="chips">
       <li>Indian pharmaceutical industry</li>
