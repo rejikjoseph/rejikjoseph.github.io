@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-## Books, Monographs and Reports {#books}
+## Books and Monographs {#books}
 
 <div class="book-grid">
   <div class="book">
