@@ -19,19 +19,9 @@ author_profile: false
     <p class="book-meta">ISID and KIET, 2025.</p>
   </div>
   <div class="book">
-    <img src="/images/books/make-in-india-an-assessment-of-the-impact-of-the-p.jpg" alt="Cover of Make in India: An Assessment of the Impact of the Programme on Six Manufacturing Sectors" loading="lazy">
-    <p class="book-title">Make in India: An Assessment of the Impact of the Programme on Six Manufacturing Sectors</p>
-    <p class="book-meta">Indian Council of Social Science Research (ICSSR), 2025.</p>
-  </div>
-  <div class="book">
     <a href="https://pharma-dept.gov.in/sites/default/files/Updated%20Strategy%20for%20Leveraging%20ASEAN%20FTA%20and%20trade%20potential%20with%20the%20Middle%20East%20Countries%20for%20Pharma%20Sector%20in%20India%20Final%20-%20ISID.pdf"><img src="/images/books/strategy-for-leveraging-asean-fta-and-trade-potent.jpg" alt="Cover of Strategy for Leveraging ASEAN FTA and Trade Potential with the Middle East Countries for Pharma Sector in India" loading="lazy"></a>
     <p class="book-title"><a href="https://pharma-dept.gov.in/sites/default/files/Updated%20Strategy%20for%20Leveraging%20ASEAN%20FTA%20and%20trade%20potential%20with%20the%20Middle%20East%20Countries%20for%20Pharma%20Sector%20in%20India%20Final%20-%20ISID.pdf">Strategy for Leveraging ASEAN FTA and Trade Potential with the Middle East Countries for Pharma Sector in India</a></p>
     <p class="book-meta">Department of Pharmaceuticals, Government of India, 2023.</p>
-  </div>
-  <div class="book">
-    <img src="/images/books/fdi-in-r-d-and-development-of-national-innovation-.jpg" alt="Cover of FDI in R&amp;D and Development of National Innovation Capabilities: A Case Study of India" loading="lazy">
-    <p class="book-title">FDI in R&amp;D and Development of National Innovation Capabilities: A Case Study of India</p>
-    <p class="book-meta">Indian Council of Social Science Research (ICSSR), 2019.</p>
   </div>
   <div class="book">
     <a href="https://www.taylorfrancis.com/books/mono/10.4324/9781315684321/pharmaceutical-industry-public-policy-post-reform-india-reji-joseph"><img src="/images/books/pharmaceutical-industry-and-public-policy-in-post-.jpg" alt="Cover of Pharmaceutical Industry and Public Policy in Post-Reform India" loading="lazy"></a>
